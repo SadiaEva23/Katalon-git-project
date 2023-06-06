@@ -21,3 +21,5 @@ WebUI.openBrowser('espears.com')
 
 WebUI.closeBrowser()
 
+WebUI.openBrowser('google.com')
+
