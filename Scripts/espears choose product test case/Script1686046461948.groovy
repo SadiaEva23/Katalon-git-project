@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('espears.com')
 
-WebUI.click(findTestObject(null))
+WebUI.closeBrowser()
 
